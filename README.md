@@ -16,7 +16,7 @@
       <ul>
         <li>
           <h4>
-            I study in the ITLA💻
+            I study in the <i><strong>ITLA💻</strong></i>
           </h4>
         </li>
         <li>

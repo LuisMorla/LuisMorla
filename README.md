@@ -8,25 +8,13 @@
   </h2>
 </div>
 
-<div border="none">
-  <h2>
-    About Me
-  </h2>
-      <div>
-      <ul>
-        <li>
-          <h4>
-            I study in the <i><strong>ITLA💻</strong></i>
-          </h4>
-        </li>
-        <li>
-          <h4>
-            Ask me about <i>C#</i>⌨️🖱
-          </h4>
-        </li>
-      </ul>
-    </div>
-</div>
+---
+
+###  🧑🏻‍💻About Me :
+
+-  💻I study in the ITLA
+-  💬Ask me about C#
+
 <!--
 **LuisMorla/LuisMorla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:

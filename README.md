@@ -1,7 +1,7 @@
 <img src="https://github.com/reeveng/reeveng/blob/master/svg.svg"/>
 
 
-<p><em>A software student at <a href="https://hogent.be">ITLA</a>, 😊</br>
+<p><em>A software student at <a href="https://hogent.be">ITLA</a>😊</br>
 </em></p>
 
 
@@ -25,7 +25,8 @@ const aboutMe = {
 ```
 </br></br>
 <h2>💻 Some stats 💻</h2>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=LuisMorla&show_icons=true&locale=en&theme=tokyonight" alt="LuisMorla" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LuisMorla&&theme=tokyonight" alt="LuisMorla" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LuisMorla&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="LuisMorla" /></p>
----
+<div style="display: flex; justify-content: center;">
+<p>&nbsp;<img align="" src="https://github-readme-stats.vercel.app/api?username=LuisMorla&show_icons=true&locale=en&theme=tokyonight" alt="LuisMorla" /></p>
+<p><img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=LuisMorla&&theme=tokyonight" alt="LuisMorla" /></p>
+<p><img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=LuisMorla&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="LuisMorla" /></p>
+</div>

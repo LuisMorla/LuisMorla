@@ -25,7 +25,6 @@ const aboutMe = {
 ```
 </br></br>
 <h2>💻 Some stats 💻</h2>
-alt="LuisMorla" /></p>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=LuisMorla&show_icons=true&locale=en&theme=tokyonight" alt="LuisMorla" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LuisMorla&&theme=tokyonight" alt="LuisMorla" /></p>
 

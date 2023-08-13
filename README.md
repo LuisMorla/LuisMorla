@@ -1,4 +1,3 @@
-<img src="https://github.com/reeveng/reeveng/blob/master/svg.svg"/>
 
 
 <p><em>A software student at <a href="https://hogent.be">ITLA</a>😊</br>

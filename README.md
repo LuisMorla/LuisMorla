@@ -18,11 +18,8 @@ const aboutMe = {
          csharp: ["Asp.net Core"],
       },
       databases: ["MongoDB", "mySQL", "SQLServer"],
+      Cloud: ["AWS"],
    },
-      Cloud: {
-         AWS
-      },
-      databases: ["MongoDB", "mySQL", "SQLServer"],
    },
    currentOccupation: ["last year student, open for job opportunities"]
 };
